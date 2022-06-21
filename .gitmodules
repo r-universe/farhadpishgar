@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "MatchThem"]
+	path = MatchThem
+	url = https://github.com/farhadpishgar/matchthem
+	shallow = true
+	registered = true
